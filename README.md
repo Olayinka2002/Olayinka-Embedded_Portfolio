@@ -4,3 +4,5 @@
 
 ## Projects
 [LED Blink] https://github.com/Olayinka2002/tm4c123-led-blink-baremetal
+ - Implements GPIOs, LEDs, TM4C123GH6PM microcontroller
+ - [Demo Video] https://drive.google.com/file/d/1bO1BTazhJGRp66re_tPQpP7-LfEj-rIx/view?usp=sharing
