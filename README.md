@@ -10,3 +10,7 @@
 [2nd Order IIR Filter] https://github.com/Olayinka2002/-FPGA-Based-Signal-Filtering-Pipeline-Verilog-Design-and-Python-Testbench-Integration
  - Implements a 2nd order filter using Python for signal generation for before and after filtering
  - Implement the filtering algorithm in verilog following the direct II form structure.
+
+[32 Bit MIPS Microprocessor]https://github.com/Olayinka2002/MIPS_Microprocessor
+  - Implemented a 32 bit single cycle microprocessor by implementing:
+     - ALUs, Registers, Program Counter, Opcode in Logism following a Instruction Set Architecture(ISA) implementation
