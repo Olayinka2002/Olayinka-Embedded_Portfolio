@@ -14,3 +14,8 @@
 [32 Bit MIPS Microprocessor]https://github.com/Olayinka2002/MIPS_Microprocessor
   - Implemented a 32 bit single cycle microprocessor by implementing:
      - ALUs, Registers, Program Counter, Opcode in Logism following a Instruction Set Architecture(ISA) implementation
+
+[FSM_Based ALU Design]https://github.com/Olayinka2002/FSM_ALU_Design/tree/main
+  -  implements an **FSM-controlled 8-bit Arithmetic Logic Unit (ALU)** in VHDL
+  -  The designin includes arithmetic functions like add subtract, divide and multiply
+  -  It also incldues logical functions like xor and xnor.
